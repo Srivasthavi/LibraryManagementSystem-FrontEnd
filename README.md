@@ -15,6 +15,9 @@ User should be able to see the count of books in based on each criteria [ Title,
 
 
 The output is like this:
+![IMAGE - OUTPUT-1 ](https://github.com/Srivasthavi/LibraryManagementSystem-FrontEnd/blob/main/image.png)
+
+![IMAGE- OUPUT-2 ](
 
 
 
